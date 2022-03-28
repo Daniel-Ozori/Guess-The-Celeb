@@ -1,0 +1,42 @@
+[
+  {
+    "name": "James Franco",
+    "image": "https://i.imgur.com/o4MQCUo.jpg"
+  },
+  {
+    "name": "Felix Lengyel",
+    "image": "https://i.imgur.com/J7oB8CJ.png"
+  },
+  {
+    "name": "Tom Holland",
+    "image": "https://i.imgur.com/hJ4kpH4.jpeg"
+  },
+  {
+    "name": "Christian Bale",
+    "image": "https://i.imgur.com/cqbUx6b.jpg"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "image": "https://i.imgur.com/LUiE5PF.jpeg"
+  },
+  {
+    "name": "Liam Neeson",
+    "image": "https://i.imgur.com/fgHp1KF.jpg"
+  },
+  {
+    "name": "Chris Evans",
+    "image": "https://i.imgur.com/IOYyvtA.jpg"
+  },
+  {
+    "name": "Andrew Garfield",
+    "image": "https://i.imgur.com/ToqZP7P.jpg"
+  },
+  {
+    "name": "Tobey Maguire",
+    "image": "https://i.imgur.com/iQDynmKg.jpg"
+  },
+  {
+    "name": "Keanu Reeves",
+    "image": "https://i.imgur.com/D7TvSth.jpg"
+  }
+]

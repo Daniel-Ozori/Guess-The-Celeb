@@ -10,8 +10,10 @@ It includes the following features
   4. Highscore 
   5. Sign Out
   
-The questions are generated at random and so are the options given.
-If you feel interested to check it out live please go here - https://gtc-chi.vercel.app/ 
+The questions are generated at random and so are the options given.<br/>
+If you feel interested to check it out live please go here - https://gtc-chi.vercel.app/ <br/>
+
+
 N.B.:This is a mobile app so please use on a mobile device.
 
 
